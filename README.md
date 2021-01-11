@@ -15,4 +15,4 @@ What things are needed to install the software and how to install them.
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **Sunny Janga** - *Initial work* - [YourWebsite](https://example.com/)

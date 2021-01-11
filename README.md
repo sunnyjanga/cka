@@ -2,6 +2,7 @@
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
+To learn 
 
 ## Getting Started
 
@@ -15,4 +16,4 @@ What things are needed to install the software and how to install them.
 
 ## Authors
 
-* **Sunny Janga** - *Initial work* - [YourWebsite](https://example.com/)
+* **Sunny K Janga** - *Initial work* - [YourWebsite](https://example.com/)
